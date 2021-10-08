@@ -10,8 +10,8 @@
 
 
 ## Project Details (Apriori algorithm)
-- Apriori Algorithm: describes that the superset of infrequent sets are always infrequent. Or we can say that group of items are frequent only if the individual items within the group are frequently picked. This approach is the best way to reduce the size of the set and make the process of finding the frequent random set process more efficient.
+- Apriori Algorithm: describes that the superset of infrequent sets are always infrequent. Or we can say that group of items are frequent only if the individual items within the group are frequently picked. This approach is the best way to reduce the size of the set and make the process of finding the frequent itemsets to be more efficient.
 
-- By the end of this assignment we would get a set of association rules.
+- By the end of this assignment we would also get a set of association rules by which we can confidently say which items are bought together. Hence, Apriori is one of the best approach for building shopping recommendations system.
 
 #### More details are presented in the User manual shared with this assignment
