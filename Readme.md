@@ -15,3 +15,4 @@
 - By the end of this assignment we would also get a set of association rules by which we can confidently say which items are bought together. Hence, Apriori is one of the best approach for building shopping recommendations system.
 
 #### More details are presented in the User manual shared with this assignment
+- User manual: Refer to `putcha_rahul gautham_midtermproj.pdf`
