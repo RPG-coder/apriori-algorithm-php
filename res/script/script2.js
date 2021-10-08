@@ -1,0 +1,1 @@
+$(document).ready(function(){$("#itemset-generation").on("submit",function(t){t.preventDefault();var e=$(this).serialize();$.ajax({type:"POST",url:"./generate_itemset.php",data:e,success:function(t){$("#output").html(t)}})})});
