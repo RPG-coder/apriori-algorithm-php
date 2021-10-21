@@ -2,7 +2,7 @@
 #### By Rahul Gautham Putcha - Under the guidence of Prof. Jason Wang
 
 ## Quick Links
-- [Setting up the Environment & Running the project](#setting-up-the-environment-running-the-project)
+- [Setting up the Environment & Running the project](#setting-up-the-environment--running-the-project)
 - [Project: Short Decription (Apriori algorithm)](#project-short-decription-apriori-algorithm)
 - [Results](#results)
 - [More details are presented in the User manual shared with this assignment](#more-details)
