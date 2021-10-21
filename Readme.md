@@ -5,7 +5,7 @@
 - [Setting up the Environment & Running the project](#setting-up-the-environment-running-the-project)
 - [Project: Short Decription (Apriori algorithm)](#project-short-decription-apriori-algorithm)
 - [Results](#results)
-- [More details are presented in the User manual shared with this assignment](#more-details-are-presented-in-the-user-manual-shared-with-this-assignment)
+- [More details are presented in the User manual shared with this assignment](#more-details)
 
 ## Setting up the Environment & Running the project
 - Install [Xaamp](https://www.apachefriends.org/download.html) for Windows, Linux or Mac
@@ -31,7 +31,7 @@ For more details on the apriori algorithm, Please visit [Agrawal .et al](https:/
 - Hence, Apriori is one of the best approach for building shopping recommendations system, due to their time-boxed nature of response involved.
 - This assignment also gives a tradeoff between the regular Frequent set generation method and Apriori algorithm with the estimating metric as time to complete.
 
-#### More details
+## More details
 - Along with is assignment the User manual which goes into more details on how the assignment is structured.
 - User manual: Refer to `putcha_rahul gautham_midtermproj.pdf`
 
